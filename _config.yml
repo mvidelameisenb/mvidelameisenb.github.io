@@ -23,7 +23,7 @@ repository               : "mvidelameisenb/mvidelameisenb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0285.JPG"
+  avatar           : "profile.png"
   name             : "Matías Videla Meisenbichler"
   pronouns         : # example: "she/her"  
   bio              : "paginawebpaginaweb"
