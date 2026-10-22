@@ -23,7 +23,7 @@ repository               : "mvidelameisenb/mvidelameisenb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "matias-videla.webp"
+  avatar           : "matias-videla.jpg"
   name             : "Matías"
   pronouns         : # example: "she/her"  
   bio              : 'Electrical Engineering student. <br>Founder of <a href="https://coheteriabeauchef.ing.uchile.cl/#top" target="_blank">Cohetería Beauchef</a> 🚀🔵 '
